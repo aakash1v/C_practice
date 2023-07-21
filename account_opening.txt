@@ -7,14 +7,14 @@ Addhar 	: 12345
 Amount Left	: 2000.00..
 
 ----Customer -2 details-----
-YOu are Minakshi
+YOu are Someone
 Account No	 :23002
 Address 	: Zairbahera,Basudeopur
 Addhar 	: 11927552
 Amount Left	: 2000.00..
 
 ----Customer -3 details-----
-YOu are LOve
+YOu are Noone
 Account No	 :23003
 Address 	: Zairbahera,Basudeopur,Munger
 Addhar 	: 12345
