@@ -1,0 +1,7 @@
+
+----Customer -1 details-----
+YOu are Aakash
+Account No	 :23001
+Address 	: 1212
+Addhar 	: 1234
+Amount Left	: 1.00..

@@ -1,0 +1,35 @@
+
+----Customer -1 details-----
+YOu are Aakash
+Account No	 :23001
+Address 	: Zairbaher,Basudeopur
+Addhar 	: 12345
+Amount Left	: 2000.00..
+
+----Customer -2 details-----
+YOu are Minakshi
+Account No	 :23002
+Address 	: Zairbahera,Basudeopur
+Addhar 	: 11927552
+Amount Left	: 2000.00..
+
+----Customer -3 details-----
+YOu are LOve
+Account No	 :23003
+Address 	: Zairbahera,Basudeopur,Munger
+Addhar 	: 12345
+Amount Left	: 2000.00..
+
+----Customer -4 details-----
+YOu are wtf
+Account No	 :23004
+Address 	: 123
+Addhar 	: 123
+Amount Left	: 2000.00..
+
+----Customer -5 details-----
+YOu are Demon
+Account No	 :23005
+Address 	: nahi
+Addhar 	: 123
+Amount Left	: 0.00..
